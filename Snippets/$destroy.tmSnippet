@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>.\$destroy();</string>
+	<string>.\$destroy()$TM_JAVASCRIPT_TERMINATOR</string>
 	<key>name</key>
 	<string>$destroy</string>
 	<key>scope</key>
-	<string>source.js</string>
+	<string>source.js, source.coffee</string>
 	<key>tabTrigger</key>
 	<string>.$</string>
 	<key>uuid</key>

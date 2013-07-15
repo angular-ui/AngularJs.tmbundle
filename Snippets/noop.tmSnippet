@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>noop</string>
 	<key>scope</key>
-	<string>source.js</string>
+	<string>source.js, source.coffee</string>
 	<key>tabTrigger</key>
 	<string>noop</string>
 	<key>uuid</key>

@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>angular.uppercase(${1:string});</string>
+	<string>angular.uppercase(${1:string})$TM_JAVASCRIPT_TERMINATOR</string>
 	<key>name</key>
 	<string>uppercase</string>
 	<key>scope</key>
-	<string>source.js</string>
+	<string>source.js, source.coffee</string>
 	<key>tabTrigger</key>
 	<string>upper</string>
 	<key>uuid</key>

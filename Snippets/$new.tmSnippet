@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>.\$new(${1:isolate});</string>
+	<string>.\$new(${1:isolate})$TM_JAVASCRIPT_TERMINATOR</string>
 	<key>name</key>
 	<string>$new</string>
 	<key>scope</key>
-	<string>source.js</string>
+	<string>source.js, source.coffee</string>
 	<key>tabTrigger</key>
 	<string>.$</string>
 	<key>uuid</key>

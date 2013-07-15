@@ -5,11 +5,11 @@
 	<key>content</key>
 	<string>.\$watch('${1:name}', function(scope, newValue, oldValue) {
 	$0
-});</string>
+})$TM_JAVASCRIPT_TERMINATOR</string>
 	<key>name</key>
 	<string>$watch</string>
 	<key>scope</key>
-	<string>source.js</string>
+	<string>source.js, source.coffee</string>
 	<key>tabTrigger</key>
 	<string>.$</string>
 	<key>uuid</key>

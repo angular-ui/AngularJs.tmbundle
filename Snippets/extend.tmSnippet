@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>extend</string>
 	<key>scope</key>
-	<string>source.js</string>
+	<string>source.js, source.coffee</string>
 	<key>tabTrigger</key>
 	<string>extend</string>
 	<key>uuid</key>

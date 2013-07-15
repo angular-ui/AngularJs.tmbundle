@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Semicolon for JS</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>settings</key>
+	<dict>
+		<key>shellVariables</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>TM_JAVASCRIPT_TERMINATOR</string>
+				<key>value</key>
+				<string>;</string>
+			</dict>
+		</array>
+	</dict>
+	<key>uuid</key>
+	<string>E1ED1205-F0B4-46DF-AE37-32DA2BD5865D</string>
+</dict>
+</plist>
