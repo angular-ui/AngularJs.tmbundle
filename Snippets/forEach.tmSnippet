@@ -5,11 +5,11 @@
 	<key>content</key>
 	<string>angular.forEach(${1:values}, function(${2:value}, ${3:key}){
 	$0
-});</string>
+})$TM_JAVASCRIPT_TERMINATOR</string>
 	<key>name</key>
 	<string>forEach</string>
 	<key>scope</key>
-	<string>source.js</string>
+	<string>source.js, source.coffee</string>
 	<key>tabTrigger</key>
 	<string>each</string>
 	<key>uuid</key>

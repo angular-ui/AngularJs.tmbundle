@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>.\$on('${1:name}', ${2:function(){$3}});</string>
+	<string>.\$on('${1:name}', ${2:function(){$3}})$TM_JAVASCRIPT_TERMINATOR</string>
 	<key>name</key>
 	<string>$on</string>
 	<key>scope</key>
-	<string>source.js</string>
+	<string>source.js, source.coffee</string>
 	<key>tabTrigger</key>
 	<string>.$</string>
 	<key>uuid</key>

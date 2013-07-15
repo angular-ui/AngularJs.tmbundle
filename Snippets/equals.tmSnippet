@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>angular.equals(${1:object1}, ${2:object2});</string>
+	<string>angular.equals(${1:object1}, ${2:object2})$TM_JAVASCRIPT_TERMINATOR</string>
 	<key>name</key>
 	<string>equals</string>
 	<key>scope</key>
-	<string>source.js</string>
+	<string>source.js, source.coffee</string>
 	<key>tabTrigger</key>
 	<string>eq</string>
 	<key>uuid</key>

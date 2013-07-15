@@ -7,11 +7,11 @@
 	${6:// success}
 }}${7:, function(status, response){
 	${8:// error}
-}});</string>
+}})$TM_JAVASCRIPT_TERMINATOR</string>
 	<key>name</key>
 	<string>$http</string>
 	<key>scope</key>
-	<string>source.js</string>
+	<string>source.js, source.coffee</string>
 	<key>tabTrigger</key>
 	<string>http</string>
 	<key>uuid</key>

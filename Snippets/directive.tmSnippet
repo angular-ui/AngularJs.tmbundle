@@ -5,7 +5,7 @@
 	<key>name</key>
 	<string>directive</string>
 	<key>scope</key>
-	<string>source.js</string>
+	<string>source.js, source.coffee</string>
 	<key>tabTrigger</key>
 	<string>dir</string>
 	<key>content</key>
@@ -28,7 +28,7 @@
 			$0
 		}
 	};
-}]);</string>
+}])$TM_JAVASCRIPT_TERMINATOR</string>
 	<key>uuid</key>
 	<string>F2229C28-5177-48A3-B07A-08742BC65A24</string>
 </dict>

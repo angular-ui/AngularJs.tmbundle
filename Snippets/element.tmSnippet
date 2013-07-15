@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>angular.element(${1:element});</string>
+	<string>angular.element(${1:element})$TM_JAVASCRIPT_TERMINATOR</string>
 	<key>name</key>
 	<string>element</string>
 	<key>scope</key>
-	<string>source.js</string>
+	<string>source.js, source.coffee</string>
 	<key>tabTrigger</key>
 	<string>el</string>
 	<key>uuid</key>

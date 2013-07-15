@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>angular.lowercase(${1:string});</string>
+	<string>angular.lowercase(${1:string})$TM_JAVASCRIPT_TERMINATOR</string>
 	<key>name</key>
 	<string>lowercase</string>
 	<key>scope</key>
-	<string>source.js</string>
+	<string>source.js, source.coffee</string>
 	<key>tabTrigger</key>
 	<string>lower</string>
 	<key>uuid</key>

@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>\$filter('${1:currency|date|filter|json|limitTo|linky|lowercase|number|orderBy|uppercase}')(${2:array}${3:, ${4:expression}});</string>
+	<string>\$filter('${1:currency|date|filter|json|limitTo|linky|lowercase|number|orderBy|uppercase}')(${2:array}${3:, ${4:expression}})$TM_JAVASCRIPT_TERMINATOR</string>
 	<key>name</key>
 	<string>$filter</string>
 	<key>scope</key>
-	<string>source.js</string>
+	<string>source.js, source.coffee</string>
 	<key>tabTrigger</key>
 	<string>filter</string>
 	<key>uuid</key>
