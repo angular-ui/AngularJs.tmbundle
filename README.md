@@ -4,8 +4,13 @@
 
 ### With Git
 
+#### TextMate 1
 ```
 git clone git://github.com/angular-ui/AngularJs.tmbundle.git ~/Library/Application\ Support/TextMate/Bundles/AngularJs.tmbundle
+```
+#### TextMate 2 (Avian)
+```
+git clone git://github.com/angular-ui/AngularJs.tmbundle.git ~/Library/Application\ Support/Avian/Bundles/AngularJs.tmbundle
 ```
 
 ### Without Git
